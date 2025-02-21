@@ -1,0 +1,11 @@
+langchain_community
+langchain
+python-dotenv
+langchain-openai
+langchain_core
+streamlit
+langchain-groq
+pypdf
+faiss-cpu
+transformers
+sentence-transformers

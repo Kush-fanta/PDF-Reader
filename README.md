@@ -1,6 +1,3 @@
-Here’s a comprehensive `README.md` file for your project. It provides an overview of the project, setup instructions, usage guidelines, and other relevant details.
-
----
 
 # PDF Question Answering with Hugging Face and Llama-3
 
